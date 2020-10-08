@@ -1,2 +1,2 @@
 # HelloWorld
-Printing "HelloWorld" in different languages.
+Hello World programs in different languages.
